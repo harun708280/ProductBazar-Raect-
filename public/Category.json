@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "categoryName": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "id": 2,
+      "categoryName": "Clothing",
+      "slug": "clothing"
+    },
+    {
+      "id": 3,
+      "categoryName": "Home Appliances",
+      "slug": "home-appliances"
+    },
+    {
+      "id": 4,
+      "categoryName": "Books",
+      "slug": "books"
+    }
+  ]
+  

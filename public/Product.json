@@ -1,0 +1,161 @@
+[
+    {
+        "id": 1,
+        "productName": "Wireless Earbuds",
+        "rating": 4.5,
+        "price": 29.99,
+        "image": "https://www.penguin.com.bd/wp-content/uploads/2022/05/wavefun-g100-wireless-gaming-bluetooth-earbuds-1-1.png",
+        "brandName": "SoundTech",
+        "category": "Electronics",
+        "availability": "Available"
+    },
+    {
+        "id": 4,
+        "productName": "4K TV",
+        "rating": 4.8,
+        "price": 799.99,
+        "image": "https://www.tvhut.com.bd/image/cache/catalog/sonybravia/x77l/sony-43-inch-class-x77l-4k-hdr-led-google-tv-2023%20(2)-320x320.png.webp",
+        "brandName": "Visionary",
+        "category": "Electronics",
+        "availability": "Not Available"
+    },
+    {
+        "id": 9,
+        "productName": "Blender",
+        "rating": 4.1,
+        "price": 24.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgxfbI7OC-vISlN6hPPeqfU_cEHK_4WCOnkQ&s",
+        "brandName": "HomePlus",
+        "category": "Home Appliances",
+        "availability": "Available"
+    },
+    {
+        "id": 6,
+        "productName": "Women's T-Shirt",
+        "rating": 4.2,
+        "price": 19.99,
+        "image": "https://m.media-amazon.com/images/I/61oZg5ZF8SL._AC_SL1500_.jpg",
+        "brandName": "StyleCo",
+        "category": "Clothing",
+        "availability": "Not Available"
+    },
+    {
+        "id": 7,
+        "productName": "Running Shoes",
+        "rating": 4.4,
+        "price": 49.99,
+        "image": "https://storage.apex4u.com/c66979ad-136e-4e57-b1cc-2a79cb99311b.jpg",
+        "brandName": "RunFast",
+        "category": "Clothing",
+        "availability": "Available"
+    },
+    {
+        "id": 8,
+        "productName": "Jeans",
+        "rating": 4.5,
+        "price": 39.99,
+        "image": "https://lsco.scene7.com/is/image/lsco/A55660005-front-pdp-ld?fmt=jpeg&qlt=70&resMode=sharp2&fit=crop,1&op_usm=0.6,0.6,8&wid=2000&hei=1840",
+        "brandName": "DenimPro",
+        "category": "Clothing",
+        "availability": "Available"
+    },
+    {
+        "id": 16,
+        "productName": "Mystery Thriller",
+        "rating": 4.6,
+        "price": 12.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIQpl5pU8IwXTiKGs-x67g_8pAk6GUdu6lag&s",
+        "category": "Books",
+        "availability": "Available"
+    },
+    {
+        "id": 5,
+        "productName": "Men's Leather Jacket",
+        "rating": 4.3,
+        "price": 119.99,
+        "image": "https://www.shodagor.com/public/uploads/all/LHlHb.jpg",
+        "brandName": "FashionHub",
+        "category": "Clothing",
+        "availability": "Not Available"
+    },
+    {
+        "id": 10,
+        "productName": "Microwave Oven",
+        "rating": 4.3,
+        "price": 129.99,
+        "image": "https://www.lg.com/bd/images/microwave-ovens/MD07533045/gallery/N01_MC3286BRUM-microwave-ovens-Front-view-D-01.jpg",
+        "brandName": "CookMate",
+        "category": "Home Appliances",
+        "availability": "Available"
+    },
+    {
+        "id": 3,
+        "productName": "Laptop",
+        "rating": 4.6,
+        "price": 899.99,
+        "image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16TLT?ver=99ac&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
+        "brandName": "ComputePro",
+        "category": "Electronics",
+        "availability": "Not Available"
+    },
+    {
+        "id": 11,
+        "productName": "Vacuum Cleaner",
+        "rating": 4.4,
+        "price": 89.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoYsj1Uqrat0ZWU0fGwNQwLqm7C2E77XXsbQ&s",
+        "brandName": "CleanHouse",
+        "category": "Home Appliances",
+        "availability": "Available"
+    },
+    {
+        "id": 12,
+        "productName": "Air Purifier",
+        "rating": 4.6,
+        "price": 149.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0UATBxEjmFyyA9LkclTEcy7wl9RqlNmy2lw&s",
+        "brandName": "FreshAir",
+        "category": "Home Appliances",
+        "availability": "Not Available"
+    },
+    {
+        "id": 13,
+        "productName": "Science Fiction Novel",
+        "rating": 4.7,
+        "price": 14.99,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4_gBh95bTqudRG__Zfm0sn-m47WHiF7c55JpgtRXkKTDyfqSsC4udUfc0_dmVSgv-kCI&usqp=CAUg",
+        "brandName": "BookWorld",
+        "category": "Books",
+        "availability": "Available"
+    },
+    {
+        "id": 14,
+        "productName": "Self-Help Book",
+        "rating": 4.2,
+        "price": 11.99,
+        "image": "https://m.media-amazon.com/images/I/61o1b77CQmL._AC_UF894,1000_QL80_.jpg",
+        "brandName": "ReadMore",
+        "category": "Books",
+        "availability": "Not Available"
+    },
+    {
+        "id": 15,
+        "productName": "Cooking Recipe Book",
+        "rating": 4.5,
+        "price": 9.99,
+        "image": "https://www.eastathome.com/cdn/shop/files/BIR-recipe-book-1.jpg?v=1693558695",
+        "brandName": "KitchenReads",
+        "category": "Books",
+        "availability": "Available"
+    },
+    {
+        "id": 2,
+        "productName": "Smartphone",
+        "rating": 4.7,
+        "price": 499.99,
+        "image": "https://m.media-amazon.com/images/I/61qJX973fRL.jpg",
+        "brandName": "TechBrand",
+        "category": "Electronics",
+        "availability": "Available"
+    }
+]
